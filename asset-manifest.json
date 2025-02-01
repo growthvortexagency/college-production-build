@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e8b22a7.css",
-    "main.js": "/static/js/main.9d5c4de9.js",
+    "main.css": "/static/css/main.6e383fa5.css",
+    "main.js": "/static/js/main.6e25ed05.js",
     "static/media/DSC_0547.mp4": "/static/media/DSC_0547.2995280ae22298f42e5e.mp4",
     "static/media/sports.webp": "/static/media/sports.9019173c81f6c4050b5c.webp",
     "static/media/commencement.webp": "/static/media/commencement.999f7b70a7c452675cd9.webp",
@@ -9,6 +9,7 @@
     "static/media/Onam.webp": "/static/media/Onam.eae7877bb5ab7f5e21cf.webp",
     "static/media/Blood.webp": "/static/media/Blood.5eb0b59b2abaf3c5429b.webp",
     "static/media/St_Anthony_Banner.png": "/static/media/St_Anthony_Banner.a4d92a070034a01fc75c.png",
+    "static/media/computerapplications.webp": "/static/media/computerapplications.0eeb389fe8478e3cbaf7.webp",
     "static/media/St_Anthony_of_Padua.png": "/static/media/St_Anthony_of_Padua.f5872d9835437e6931ef.png",
     "static/media/CEB_Logo.webp": "/static/media/CEB_Logo.c18ee6b1e290609dd071.webp",
     "static/media/Abhishek.webp": "/static/media/Abhishek.2df28fbff414b8fa8a0a.webp",
@@ -21,8 +22,10 @@
     "static/media/industrialvisit.jpeg": "/static/media/industrialvisit.087c9230ab00a41f0646.jpeg",
     "static/media/St_Anthony_College_Logo.png": "/static/media/St_Anthony_College_Logo.a5e87965562e23ff8e22.png",
     "static/media/inter.jpg": "/static/media/inter.4224d9432ade35d82c9a.jpg",
+    "static/media/commerce.webp": "/static/media/commerce.82f78e35ddae8b26501c.webp",
     "static/media/BCA.webp": "/static/media/BCA.c0b7b071b617191cf621.webp",
     "static/media/NCC.webp": "/static/media/NCC.edee5893146fc24ae467.webp",
+    "static/media/management.webp": "/static/media/management.8d9a58be2414f37de34a.webp",
     "static/media/BBA.webp": "/static/media/BBA.56d3fab4fca883a1a51a.webp",
     "static/media/BCOM.webp": "/static/media/BCOM.b1fafff96bbb16727a92.webp",
     "static/media/college_logo_name.webp": "/static/media/college_logo_name.6bc67643afc584ed649b.webp",
@@ -36,11 +39,11 @@
     "static/media/envelope-solid.svg": "/static/media/envelope-solid.47e816984a875ad6d4891ec36210d3a0.svg",
     "static/media/facebook.svg": "/static/media/facebook.0c962aaa058d18530523d691002580e0.svg",
     "static/media/location-dot-solid.svg": "/static/media/location-dot-solid.84e25f69f8fbf1c8fb312524861e3e52.svg",
-    "main.9e8b22a7.css.map": "/static/css/main.9e8b22a7.css.map",
-    "main.9d5c4de9.js.map": "/static/js/main.9d5c4de9.js.map"
+    "main.6e383fa5.css.map": "/static/css/main.6e383fa5.css.map",
+    "main.6e25ed05.js.map": "/static/js/main.6e25ed05.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e8b22a7.css",
-    "static/js/main.9d5c4de9.js"
+    "static/css/main.6e383fa5.css",
+    "static/js/main.6e25ed05.js"
   ]
 }
