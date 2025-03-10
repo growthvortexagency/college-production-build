@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.042e2704.css",
-    "main.js": "/static/js/main.ec434f9f.js",
+    "main.css": "/static/css/main.35eaed25.css",
+    "main.js": "/static/js/main.637bd198.js",
     "static/media/DSC_0547.mp4": "/static/media/DSC_0547.2995280ae22298f42e5e.mp4",
     "static/media/sports.webp": "/static/media/sports.9019173c81f6c4050b5c.webp",
     "static/media/commencement.webp": "/static/media/commencement.999f7b70a7c452675cd9.webp",
@@ -63,24 +63,27 @@
     "static/media/photo-film-solid.svg": "/static/media/photo-film-solid.0e15d313951be4d46f3d2626c7e5f70a.svg",
     "static/media/instagram.svg": "/static/media/instagram.14f519ccee39fea2bbbf37d231f81670.svg",
     "static/media/users-solid.svg": "/static/media/users-solid.65a8b5cf3ef055c64e4fdd24cc86f6b7.svg",
+    "static/media/id-card-solid.svg": "/static/media/id-card-solid.30ee8cef5c5081a5b6a9c3b4f058c8bc.svg",
     "static/media/x-twitter.svg": "/static/media/x-twitter.a9aeac3b79912884faba83d2ce252644.svg",
     "static/media/blog-solid.svg": "/static/media/blog-solid.f8c8414f2086e6158a355a4a8ea0ef63.svg",
     "index.html": "/index.html",
     "static/media/comment-solid.svg": "/static/media/comment-solid.1439dd1a2c706f556f07e69280a3379b.svg",
     "static/media/youtube.svg": "/static/media/youtube.8bcc39a1c4501a0cc1f8eb1d31dbee4c.svg",
+    "static/media/calendar-regular.svg": "/static/media/calendar-regular.626da54d9590193e68c3db30763f0de7.svg",
     "static/media/phone-solid.svg": "/static/media/phone-solid.6af58fcfbefc052e1863720948c46684.svg",
     "static/media/envelope-solid.svg": "/static/media/envelope-solid.47e816984a875ad6d4891ec36210d3a0.svg",
     "static/media/facebook.svg": "/static/media/facebook.0c962aaa058d18530523d691002580e0.svg",
+    "static/media/lock-solid.svg": "/static/media/lock-solid.d9718dc84cc674788bf3d27660b22e2f.svg",
     "static/media/user-solid.svg": "/static/media/user-solid.3a8cec09672d4bfff977cfc2c953d693.svg",
     "static/media/dashboard.svg": "/static/media/dashboard.16922f7a2422ea34d35b09d7bfce165c.svg",
     "static/media/chevron-right-solid.svg": "/static/media/chevron-right-solid.d1221a6566c5b01621dee943d0180e2e.svg",
     "static/media/location-dot-solid.svg": "/static/media/location-dot-solid.84e25f69f8fbf1c8fb312524861e3e52.svg",
     "static/media/file-solid.svg": "/static/media/file-solid.866396999826d81bb52377661a4e80ba.svg",
-    "main.042e2704.css.map": "/static/css/main.042e2704.css.map",
-    "main.ec434f9f.js.map": "/static/js/main.ec434f9f.js.map"
+    "main.35eaed25.css.map": "/static/css/main.35eaed25.css.map",
+    "main.637bd198.js.map": "/static/js/main.637bd198.js.map"
   },
   "entrypoints": [
-    "static/css/main.042e2704.css",
-    "static/js/main.ec434f9f.js"
+    "static/css/main.35eaed25.css",
+    "static/js/main.637bd198.js"
   ]
 }
